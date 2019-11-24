@@ -1,0 +1,8 @@
+C:\Users\kelas\source\repos\Hyperio\Service\obj\Debug\netcoreapp2.2\Service.csproj.CoreCompileInputs.cache
+C:\Users\kelas\source\repos\Hyperio\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\Users\kelas\source\repos\Hyperio\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\Users\kelas\source\repos\Hyperio\Service\obj\Debug\netcoreapp2.2\Service.pdb
+C:\Users\kelas\source\repos\Hyperio\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\Users\kelas\source\repos\Hyperio\Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\kelas\source\repos\Hyperio\Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\kelas\source\repos\Hyperio\Service\obj\Debug\netcoreapp2.2\Service.dll

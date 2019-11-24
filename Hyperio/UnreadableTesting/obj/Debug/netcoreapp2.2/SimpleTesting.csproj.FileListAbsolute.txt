@@ -1,0 +1,17 @@
+C:\Users\kelas\source\repos\Hyperio\UnreadableTesting\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\kelas\source\repos\Hyperio\UnreadableTesting\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\kelas\source\repos\Hyperio\UnreadableTesting\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\kelas\source\repos\Hyperio\UnreadableTesting\bin\Debug\netcoreapp2.2\SimpleTesting.deps.json
+C:\Users\kelas\source\repos\Hyperio\UnreadableTesting\bin\Debug\netcoreapp2.2\SimpleTesting.runtimeconfig.json
+C:\Users\kelas\source\repos\Hyperio\UnreadableTesting\bin\Debug\netcoreapp2.2\SimpleTesting.runtimeconfig.dev.json
+C:\Users\kelas\source\repos\Hyperio\UnreadableTesting\bin\Debug\netcoreapp2.2\SimpleTesting.dll
+C:\Users\kelas\source\repos\Hyperio\UnreadableTesting\bin\Debug\netcoreapp2.2\SimpleTesting.pdb
+C:\Users\kelas\source\repos\Hyperio\UnreadableTesting\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\kelas\source\repos\Hyperio\UnreadableTesting\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\kelas\source\repos\Hyperio\UnreadableTesting\obj\Debug\netcoreapp2.2\SimpleTesting.csprojAssemblyReference.cache
+C:\Users\kelas\source\repos\Hyperio\UnreadableTesting\obj\Debug\netcoreapp2.2\SimpleTesting.csproj.CoreCompileInputs.cache
+C:\Users\kelas\source\repos\Hyperio\UnreadableTesting\obj\Debug\netcoreapp2.2\SimpleTesting.AssemblyInfoInputs.cache
+C:\Users\kelas\source\repos\Hyperio\UnreadableTesting\obj\Debug\netcoreapp2.2\SimpleTesting.AssemblyInfo.cs
+C:\Users\kelas\source\repos\Hyperio\UnreadableTesting\obj\Debug\netcoreapp2.2\SimpleTesting.csproj.CopyComplete
+C:\Users\kelas\source\repos\Hyperio\UnreadableTesting\obj\Debug\netcoreapp2.2\SimpleTesting.dll
+C:\Users\kelas\source\repos\Hyperio\UnreadableTesting\obj\Debug\netcoreapp2.2\SimpleTesting.pdb

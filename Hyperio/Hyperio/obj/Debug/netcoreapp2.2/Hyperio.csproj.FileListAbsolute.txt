@@ -1,0 +1,14 @@
+C:\Users\kelas\source\repos\Hyperio\Hyperio\obj\Debug\netcoreapp2.2\Hyperio.csprojAssemblyReference.cache
+C:\Users\kelas\source\repos\Hyperio\Hyperio\obj\Debug\netcoreapp2.2\Hyperio.csproj.CoreCompileInputs.cache
+C:\Users\kelas\source\repos\Hyperio\Hyperio\obj\Debug\netcoreapp2.2\Hyperio.AssemblyInfoInputs.cache
+C:\Users\kelas\source\repos\Hyperio\Hyperio\obj\Debug\netcoreapp2.2\Hyperio.AssemblyInfo.cs
+C:\Users\kelas\source\repos\Hyperio\Hyperio\bin\Debug\netcoreapp2.2\Hyperio.deps.json
+C:\Users\kelas\source\repos\Hyperio\Hyperio\bin\Debug\netcoreapp2.2\Hyperio.runtimeconfig.json
+C:\Users\kelas\source\repos\Hyperio\Hyperio\bin\Debug\netcoreapp2.2\Hyperio.runtimeconfig.dev.json
+C:\Users\kelas\source\repos\Hyperio\Hyperio\bin\Debug\netcoreapp2.2\Hyperio.dll
+C:\Users\kelas\source\repos\Hyperio\Hyperio\bin\Debug\netcoreapp2.2\Hyperio.pdb
+C:\Users\kelas\source\repos\Hyperio\Hyperio\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\kelas\source\repos\Hyperio\Hyperio\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\kelas\source\repos\Hyperio\Hyperio\obj\Debug\netcoreapp2.2\Hyperio.csproj.CopyComplete
+C:\Users\kelas\source\repos\Hyperio\Hyperio\obj\Debug\netcoreapp2.2\Hyperio.dll
+C:\Users\kelas\source\repos\Hyperio\Hyperio\obj\Debug\netcoreapp2.2\Hyperio.pdb
